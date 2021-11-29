@@ -1,6 +1,6 @@
 # Esri React/TypeScript Demo
 
-This application is a basic React/TypeScript starter app for Esri based applications. It uses many of the modules and conventions found in our production applications.
+This application is a basic React/TypeScript starter app for Esri based applications
 
 ## Technologies Demonstrated
 
