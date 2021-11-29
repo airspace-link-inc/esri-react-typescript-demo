@@ -46,11 +46,3 @@ See documentation on writing tests at [Testing Library](https://testing-library.
 
 `yarn test`
 
-## What this repo is lacking?
-
-This template is lacking examples for the following:
-
-- Production readiness (configuration in webpack bundler)
-- Robust testing
-- Performance optimizations for production builds
-- Strong patterns for structuring MobX stores
