@@ -40,7 +40,7 @@ It is assumed that you already have `node` and `yarn` installed on your machine.
 
 `yarn tsc`
 
-### Non-existent tests
+### Run tests
 
 See documentation on writing tests at [Testing Library](https://testing-library.com/docs/)
 
