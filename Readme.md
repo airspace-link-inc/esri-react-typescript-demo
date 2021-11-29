@@ -1,6 +1,6 @@
-# Web Application Template
+# Esri React/Typescript Demo
 
-This application is a basic React/TypeScript starter app for Esri based applications. It uses many of the modules and conventions found in our production applications. However, this starter is not quite production ready (could use some more production configuration in the webpack bundler).
+This application is a basic React/TypeScript starter app for Esri based applications. It uses many of the modules and conventions found in our production applications.
 
 ## Technologies Demonstrated
 
@@ -50,6 +50,7 @@ See documentation on writing tests at [Testing Library](https://testing-library.
 
 This template is lacking examples for the following:
 
+- Production readiness (configuration in webpack bundler)
 - Robust testing
 - Performance optimizations for production builds
 - Strong patterns for structuring MobX stores
